@@ -109,15 +109,6 @@ Feel free to explore the provided links for a deeper understanding of each algor
 - Evaluate each model's performance using metrics such as accuracy, F1 score, and confusion matrix.
 
 
-# Some Visualizations:
-
-- [Scatter plot matrix](https://github.com/gauravsharma30/Stroke_Prediction/blob/main/Pictures/scatter_plot.png)
-
-- [Correlation](https://github.com/gauravsharma30/Stroke_Prediction/blob/main/Pictures/correlation.png)
-
-
-
-
 ##Metric used:
 
 ## F1 Score
