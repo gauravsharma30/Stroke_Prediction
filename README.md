@@ -2,12 +2,6 @@
 
 The goal of this model is to figure out if person will experience a stroke on the basis of their age, nature of work, urban/rural resident, marital status, and several clinical levels.
 
-## Implementation Details
-
-- Dataset: California Housing Dataset (view below for more details)
-- Model: [Linear Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-- Input: 8 features - Median Houshold income, House Area, ...
-- Output: House Price
 
 ## Dataset Details
 
